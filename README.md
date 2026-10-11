@@ -1,8 +1,10 @@
 ## hi
-discord is heart_artistic btw
+working on being a cs student 
+godot enthusiast
 
-stats thing 
-   vv
+i'm more of an artist than anything but i'm trying..,,,
+
+### stats
    
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Heart-Artistic&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
